@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:name": "Snow on the Allen Lawn.",
+  "schema:identifier": [
+    "ark:/99999/d3c3fce97",
+    "D-070, Box:4, Folder:43"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/D-70-004_043_0001_recto.tif"
+  },
+  "schema:dateCreated": "March 1934.",
+  "schema:description": "1525 28th Street, N. W., Washington, D. C."
+}
